@@ -1,0 +1,8 @@
+Flask-Cors==3.0.10  # Para permitir CORS (si el ESP32 envía datos desde otra red)
+pandas==2.1.3  # Para manejar datos y almacenarlos en CSV
+blinker==1.9.0
+click==8.1.8
+Flask==3.1.0
+itsdangerous==2.2.0
+pytz==2024.2
+Werkzeug==3.1.3

@@ -1,0 +1,4 @@
+tasks:
+  - name: flask-iot
+    command: |
+      pip install -r requirements.txt
